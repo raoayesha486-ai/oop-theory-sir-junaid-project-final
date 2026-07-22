@@ -3,6 +3,9 @@
 Smart Asset Management for Modern Organizations
 
 An efficient desktop application built with C# Windows Forms and SQL Server to simplify the management of IT assets. From tracking laptops and desktops to monitoring equipment status, this system provides a centralized solution for maintaining an organized inventory.
+
+
+
 ✨Why This Project?
 
 Managing IT equipment manually often leads to missing records, duplicate entries, and difficulty tracking asset availability.
